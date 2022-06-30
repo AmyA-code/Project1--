@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import sys
 
 def display(superhero_personality):
